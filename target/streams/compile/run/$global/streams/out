@@ -1,0 +1,57 @@
+[0m[[0minfo[0m] [0mRunning HelloReactor [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-d to terminate.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/Desktop/Reactor-POC-Updated/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/io.reactors/reactors_2.11/jars/reactors_2.11-0.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/io.reactors/reactors-debugger_2.11/jars/reactors-debugger_2.11-0.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/io.reactors/reactors-core_2.11/jars/reactors-core_2.11-0.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/io.reactors/reactors-common_2.11/jars/reactors-common_2.11-0.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/io.reactors/reactors-protocol_2.11/jars/reactors-protocol_2.11-0.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/io.reactors/reactors-container_2.11/jars/reactors-container_2.11-0.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-http-server/jars/rapidoid-http-server-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-http-fast/jars/rapidoid-http-fast-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-net/jars/rapidoid-net-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-buffer/jars/rapidoid-buffer-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-commons/jars/rapidoid-commons-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-essentials/jars/rapidoid-essentials-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.javassist/javassist/bundles/javassist-3.20.0-GA.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.6.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-afterburner/bundles/jackson-module-afterburner-2.6.6.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/bundles/jackson-dataformat-yaml-2.6.6.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.yaml/snakeyaml/bundles/snakeyaml-1.15.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/javax.inject/javax.inject/jars/javax.inject-1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-render/jars/rapidoid-render-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-jpa/jars/rapidoid-jpa-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-inject/jars/rapidoid-inject-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-gui/jars/rapidoid-gui-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.rapidoid/rapidoid-html/jars/rapidoid-html-5.1.9.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.github.spullara.mustache.java/compiler/jars/compiler-0.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/commons-io/commons-io/jars/commons-io-2.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.json4s/json4s-scalap_2.11/jars/json4s-scalap_2.11-3.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.thoughtworks.paranamer/paranamer/bundles/paranamer-2.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.5.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.6.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.6.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/io.reactors/reactors-extra_2.11/jars/reactors-extra_2.11-0.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.ivy2/cache/io.reactors/reactors-remote_2.11/jars/reactors-remote_2.11-0.8.jar[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-d exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread reactors-io.test-system.timer-service[0m
+[0m[[0mdebug[0m] [0m	Interrupted reactors-io.test-system.timer-service[0m
+[0m[[0mdebug[0m] [0mInterrupting thread reactors-io.test-system.global-timer[0m
+[0m[[0mdebug[0m] [0m	Interrupted reactors-io.test-system.global-timer[0m
+[0m[[0mdebug[0m] [0mInterrupting thread reactors-io-scheduler-reanimator[0m
+[0m[[0mdebug[0m] [0m	Interrupted reactors-io-scheduler-reanimator[0m
+[0m[[0mdebug[0m] [0mInterrupting thread reactors-io-scheduler-ForkJoinPool-27-worker-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted reactors-io-scheduler-ForkJoinPool-27-worker-1[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
