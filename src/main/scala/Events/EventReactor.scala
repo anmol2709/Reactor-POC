@@ -17,10 +17,18 @@ object EventReactor {
 
     var luckyNumber = 0
 
+
+    //    Using Event Streams as Collection In Scala/ Streams In Java
+
+    /*val eventFunctionality =emitter.filter(x=>x>8)
+    eventFunctionality.onEvent(value =>print(value))*/
+
+
+
     emitter.onEvent{
       value => luckyNumber = value //reassigning luckyNumber to 7 on Event call
 
-       if(luckyNumber == 7)
+      if(luckyNumber == 7)
          println(s"---------------The selected number is  $luckyNumber : Congrats You are lucky!!!!!!!-------------")
          else
          println(s"The selected number is  $luckyNumber :Sorry You are not so lucky!!!!!!")
